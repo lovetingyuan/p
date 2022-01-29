@@ -33,3 +33,4 @@ button.addEventListener('click', async () => {
   await navigator.clipboard.writeText(p.substr(0, button.len))
   button.style.color = 'green'
 })
+// https://www.json.cn/json/jshx.html
